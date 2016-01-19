@@ -1,4 +1,4 @@
-var	ti_obj = document.getElementById("ti");
+Ôªøvar	ti_obj = document.getElementById("ti");
 var sp_1_obj = document.getElementById("sp_1");
 var div_table_obj = document.getElementById("table"),trap=0;
 var but_1_obj = document.getElementById("but_1"),
@@ -13,14 +13,14 @@ function log10(arg) {
 }
 
 function start(){
-	ti_obj.innerHTML = "œ–»¬≈“";
+	ti_obj.innerHTML = "–ü—Ä–∏–≤–µ—Ç";
 }
 
 but_1_obj.onclick = function but_1_click(){
-	ti_obj.innerHTML = " ÌÓÔÍ‡ Ì‡Ê‡Ú‡";
+	ti_obj.innerHTML = "–ö–Ω–æ–ø–∫–∞ –Ω–∞–∂–∞—Ç–∞";
 }
 but_2_obj.onclick = function but_2_click(){
-	sp_1_obj.innerHTML = " ÌÓÔÍ‡ 2 Ì‡Ê‡Ú‡";
+	sp_1_obj.innerHTML = "–ö–Ω–æ–ø–∫–∞ 2 –Ω–∞–∂–∞—Ç–∞";
 }
 but_3_obj.onclick = function but_3_click(){
  if(trap==0){
