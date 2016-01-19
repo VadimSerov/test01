@@ -1,0 +1,11 @@
+body{
+	background-color: #ffff55;
+}
+table{
+	border-collapse: collapse; 
+	border: 2px solid black;
+}
+td {
+	border: 1px solid #ff0000;
+	text-align: right;
+}
